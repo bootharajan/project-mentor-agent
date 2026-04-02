@@ -1,0 +1,14 @@
+spec_version: "0.1.0"
+name: project-mentor-agent
+version: 0.1.0
+description: "An advanced, free project mentor that helps students with core (all engineering branches), software, and app/website projects."
+model:
+  preferred: claude-sonnet-4-5-20250929
+skills:
+  - core-helper
+  - software-helper
+  - app-website-designer
+tags:
+  - hackathon
+  - project-mentor
+  - students
